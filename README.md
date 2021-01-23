@@ -38,4 +38,4 @@
 [github]: https://github.com/dayaki
 [linkedin]: https://www.linkedin.com/in/dayaki
 [site]: https://madebydayo.co
-[twitter]: twitter.com/dayaki
+[twitter]: https://twitter.com/dayaki
