@@ -17,7 +17,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Patricia Technologies**
+- 🏢 I'm currently working at **Patricia**
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.php`
 - 🌍 I'm mostly active on **Slack and Twitter**
 - 💅 Developed: [Carviva](https://mycarviva.com), [Palnum](https://whatsnum.org), [CandLite](https://candlite.co), etc…
