@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Web/Mobile Developer living in Lagos, Nigeria.
+#### I'm a Full-Stack Web/Mobile developer living in Lagos, Nigeria.
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=for-the-badge&logo=css)
@@ -12,7 +12,7 @@
 ##### NOW
 
 - 💬 Working, learning and growing my skillset in React, React Native, testing, data structures and algorithms.
-- 🌱 I’m currently learning **React Native Animations** and **Testing**
+- 🌱 I’m currently learning **React Native Animations** and **Testing**.
 - 🤝 Open for collaborations in web and mobile development projects.
 
 ##### BIO
@@ -20,7 +20,7 @@
 - 🏢 I'm currently working at **Patricia Technologies**
 - ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`, `.php`
 - 🌍 I'm mostly active on **Slack and Twitter**
-- 💅 Developed: [Carviva](https://mycarviva.com), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💅 Developed: [Carviva](https://mycarviva.com), [Palnum](https://whatsnum.org), [CandLite](https://candlite.co), etc…
 - 🌱 Learning all about **Machine Learning, Testing**
 - 💬 Ping me about **React**, **React Native**, **development**, **laravel**
 - ⚡️ Fun fact: I'm a huge fan of console gaming
