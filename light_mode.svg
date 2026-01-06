@@ -58,8 +58,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Gaming (PlayStation 5), Gym</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">hello@madebydayo.co</tspan>
-<tspan x="390" y="330" class="cc">. </tspan>
-<tspan x="390" y="330" class="cc">. </tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">https://madebydayo.co</tspan>
+<tspan x="390" y="370" class="cc">. </tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Dayaki</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Dayo.Vibe</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
